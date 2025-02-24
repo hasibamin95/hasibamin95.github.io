@@ -1,9 +1,9 @@
 ---
 layout: profiles
 permalink: /people/
-title: Research
+title: People
 description:
-nav: true
+nav: false
 nav_order: 7
 
 profiles:
