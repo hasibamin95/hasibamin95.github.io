@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: Projects
+title: Research
 description:
 nav: true
 nav_order: 7
@@ -11,6 +11,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: prof_pic.jpg
+    image: prof_pic_color.jpg
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
