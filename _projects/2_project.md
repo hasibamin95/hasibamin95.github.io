@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: CrossNAS
+description: A Cross-Layer Neural Architecture Search Framework for PIM Systems
+img: assets/img/method_new.png
 importance: 2
 category: work
 giscus_comments: true
