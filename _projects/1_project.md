@@ -31,3 +31,30 @@ In the 1-bit LLM, the attention heads are designed with high-precision matmul op
 <div class="caption">
     (a) The 1-bit LLMs divide the model into two portions: attention heads with high-precision MatMul operations (shown in red) and projection layers with low-precision MatMuls (shown in green). (b) The percentage of the low-precision MatMul operations in various OPT models.
 </div>
+
+Initial results show significant performance gains compared to the TPU baselines.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/token/tokens_comparison_128.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/token/tokens_comparison_256.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/token/tokens_comparison_512.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/token/tokens_comparison_1024.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/token/tokens_comparison_2048.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/token/tokens_comparison_4096.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="caption">
+    Tokens per second result for various LLMs with different context lengths (l).
+</div>
