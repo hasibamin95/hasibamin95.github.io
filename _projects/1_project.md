@@ -5,7 +5,7 @@ description:
 img: assets/img/motivation.png
 importance: 1
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 
 We compute the low-precision MatMuls on PIM hardware.
