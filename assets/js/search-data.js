@@ -403,8 +403,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/work/2_project/";
-            },},{id: "projects-reliability-aware-in-memory-analog-computing",
-          title: 'Reliability-Aware In-memory Analog Computing',
+            },},{id: "projects-reliability-aware-nn-deployment-on-analog-pim",
+          title: 'Reliability-Aware NN Deployment on Analog PIM',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/work/3_project/";
