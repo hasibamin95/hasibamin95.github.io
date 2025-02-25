@@ -11,7 +11,7 @@ giscus_comments: false
 We use the Single-Path One-shot weight sharing approach on PIM systems.
 
 <div class="row justify-content-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/method_new.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -20,7 +20,7 @@ We use the Single-Path One-shot weight sharing approach on PIM systems.
 </div>
 
 <div class="row justify-content-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/flow-new.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
