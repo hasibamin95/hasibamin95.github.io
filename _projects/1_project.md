@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PIM-LLM
+title: 1_project
 description: A High-Throughput Hybrid PIM Architecture for 1-bit LLMs
 img: assets/img/motivation.png
 importance: 1
