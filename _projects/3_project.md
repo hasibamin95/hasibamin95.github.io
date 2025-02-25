@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
+title: CrossNAS
+description: A Cross-Layer Neural Architecture Search Framework for PIM Systems
+img: assets/img/method_new.png
+importance: 2
 category: work
+giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.
