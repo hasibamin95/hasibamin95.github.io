@@ -393,8 +393,8 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-hybrid-tpu-pim-accelerator",
-          title: 'Hybrid TPU-PIM Accelerator',
+          section: "News",},{id: "projects-hybrid-tpu-pim-llm-accelerator",
+          title: 'Hybrid TPU-PIM LLM Accelerator',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/work/1_project/";
