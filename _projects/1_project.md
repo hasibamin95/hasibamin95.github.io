@@ -44,13 +44,13 @@ Initial results show significant performance gains compared to the TPU baselines
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/token/tokens_comparison_256.png" title="example image" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
-            (a) l=256
+            (b) l=256
         </div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/token/tokens_comparison_512.png" title="example image" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
-            (a) l=512
+            (c) l=512
         </div>
     </div>
 </div>
@@ -58,19 +58,19 @@ Initial results show significant performance gains compared to the TPU baselines
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/token/tokens_comparison_1024.png" title="example image" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
-            (a) l=1024
+            (d) l=1024
         </div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/token/tokens_comparison_2048.png" title="example image" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
-            (a) l=2048
+            (e) l=2048
         </div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/token/tokens_comparison_4096.png" title="example image" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
-            (a) l=4096
+            (f) l=4096
         </div>
     </div>
 </div>
@@ -78,3 +78,7 @@ Initial results show significant performance gains compared to the TPU baselines
 <div class="caption">
     Tokens per second result for various LLMs with different context lengths (l).
 </div>
+
+Some of the interesting points include:
+- Models with shorter context lengths achieves higher speedup
+- Larger models obtain higher speedup
