@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hybrid TPU-PIM Accelerator
+title: Hybrid TPU-PIM LLM Accelerator
 description:
 img: assets/img/motivation.png
 importance: 1
