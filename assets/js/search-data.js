@@ -397,22 +397,22 @@ ninja.data = [{
           title: 'PIM-LLM',
           description: "A High-Throughput Hybrid PIM Architecture for 1-bit LLMs",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/work/1_project/";
             },},{id: "projects-crossnas",
           title: 'CrossNAS',
           description: "A Cross-Layer Neural Architecture Search Framework for PIM Systems",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
+              window.location.href = "/work/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
+              window.location.href = "/work/3_project/";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
+              window.location.href = "/fun/4_project/";
             },},{
         id: 'social-email',
         title: 'email',
