@@ -408,9 +408,9 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/work/3_project/";
-            },},{id: "projects-crossnas",
-          title: 'CrossNAS',
-          description: "A Cross-Layer Neural Architecture Search Framework for PIM Systems",
+            },},{id: "projects-approximate-tpu",
+          title: 'Approximate TPU',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/work/4_project/";
             },},{
