@@ -10,8 +10,8 @@ giscus_comments: false
 
 There are matrix multiplication (MatMul) operations in the projection and attention layers of the LLM architecture.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/decoder.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -22,8 +22,8 @@ There are matrix multiplication (MatMul) operations in the projection and attent
 
 In the 1-bit LLM, the attention heads are designed with high-precision matmul operations and the projection layers operate with low-precision MatMul operations. We observe that most of the LLM models have higher percentage of the MatMul operations in the projection layer. So, we shift the projection layer operations into PIM hardware.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/motivation.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
