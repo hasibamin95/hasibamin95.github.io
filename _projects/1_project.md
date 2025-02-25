@@ -1,9 +1,9 @@
 ---
 layout: page
-title: CrossNAS
-description: A Cross-Layer Neural Architecture Search Framework for PIM Systems
-img: assets/img/method_new.png
-importance: 2
+title: PIM-LLM
+description: A High-Throughput Hybrid PIM Architecture for 1-bit LLMs
+img: assets/img/motivation.png
+importance: 1
 category: work
 giscus_comments: true
 ---
