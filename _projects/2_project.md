@@ -25,6 +25,6 @@ We use the Single-Path One-shot weight sharing approach on PIM systems.
     </div>
 </div>
 <div class="caption">
-    Optimization flow for the proposed CrossNAS framework
+    Optimization flow for the proposed co-optimization framework
 </div>
 
