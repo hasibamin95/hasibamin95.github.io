@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: CrossNAS
+description: A Cross-Layer Neural Architecture Search Framework for PIM Systems
+img: assets/img/method_new.png
+importance: 2
+category: work
+giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.
