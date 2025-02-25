@@ -28,34 +28,13 @@ We use the Single-Path One-shot weight sharing approach on PIM systems.
     Optimization flow for the proposed co-optimization framework
 </div>
 
-We obtained promising results on CIFAR-10 and CIFAR-100 datasets.
+We obtained promising results on CIFAR-10 datasets, both in terms of accuracy and energy efficiency.
 
-\begin{table}[]
-\centering
-\caption{Performance comparison against different PIM-oriented NAS methods on CIFAR-10 dataset.}
-\resizebox{\columnwidth}{!}{%
-\begin{tabular}{ccccc}
-\hline
-\multirow{2}{*}{Method} & PIM & Latency & EDP & Search   \\
-       & Accuracy & ($ms$) & ($mJ\times ms$) & time (h)  \\  \hline
-NACIM \cite{nacim} & 73.9\% & - & 1.55 & 59  \\
-UAE \cite{uae} & 83\% & - & - & 154  \\
-NAS4RRAM \cite{nas4rram} & 84.4\% & - & - & 289 \\
-%NAX \cite{nax} & 92.7\% & - & 290 & 32      \\
-%AnalogNAS \cite{analogNAS} & 92.07\% &  \\
-Gibbon \cite{gibbon} (acc opt.) & 89.2\% & 3.44 & 1.67 & 6  \\
-Gibbon \cite{gibbon} (edp opt.) & 83.4\% & 1.99 & 0.26 & 6  \\ \hline
-CrossNAS ($w_{acc}$=0.99) & 91.27\% & 1.35 & 0.28 & 6\\
-%CrossNAS ($w_{acc}$=0.9) & 89.27\% & 0.71 & 0.13 & 5.5\\
-CrossNAS ($w_{acc}$=0.8) & 88.09\% & 0.577 & 0.073 & 5\\
-%CrossNAS ($w_{acc}$=0.6) & \\
-\hline
-\end{tabular}}
-\label{tab:compare}
-\end{table}
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
+| Method  | PIM Accuracy | Latency (ms)  | EDP (mJ X ms)  | Search time (h) |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| NACIM  | 73.9%  | -  | 1.55  | 59  |
+| UAE  | 83%  | -  | -  | 154  |
+| NAS4RRAM  | 84.4%  | -  | -  | 289  |
+| Gibbon (acc opt.)  | 89.2%  | 3.44  | 1.67  | 6  |
+| Gibbon (edp opt.)  | 83.4%  | 1.99  | 0.26  | 6  |
+| This work  | 91.27%  | 1.35  | 0.28  | 6  |
