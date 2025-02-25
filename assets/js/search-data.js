@@ -393,9 +393,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-pim-llm",
-          title: 'PIM-LLM',
-          description: "A High-Throughput Hybrid PIM Architecture for 1-bit LLMs",
+          section: "News",},{id: "projects-crossnas",
+          title: 'CrossNAS',
+          description: "A Cross-Layer Neural Architecture Search Framework for PIM Systems",
           section: "Projects",handler: () => {
               window.location.href = "/work/1_project/";
             },},{id: "projects-crossnas",
