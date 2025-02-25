@@ -6,7 +6,6 @@ img: assets/img/motivation.png
 importance: 1
 category: work
 related_publications: true
-permalink: /projects/1_project/
 ---
 
 Every project has a beautiful feature showcase page.
