@@ -2,7 +2,7 @@
 layout: page
 title: Reliability-Aware In-memory Analog Computing
 description:
-img: assets/img/arch.pdf
+img: assets/img/arch.png
 importance: 2
 category: work
 giscus_comments: true
