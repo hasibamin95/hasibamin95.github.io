@@ -1,7 +1,7 @@
 ---
 layout: page
-title: PIM-LLM
-description: A High-Throughput Hybrid PIM Architecture for 1-bit LLMs
+title: LLM Acceleration Using Hybrid TPU-PIM Architecture
+description:
 img: assets/img/motivation.png
 importance: 1
 category: work
