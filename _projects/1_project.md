@@ -1,6 +1,6 @@
 ---
 layout: page
-title: LLM Acceleration Using Hybrid TPU-PIM Architecture
+title: Hybrid TPU-PIM Accelerator
 description:
 img: assets/img/motivation.png
 importance: 1
