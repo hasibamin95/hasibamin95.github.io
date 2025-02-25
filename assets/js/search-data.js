@@ -403,9 +403,9 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/work/2_project/";
-            },},{id: "projects-crossnas",
-          title: 'CrossNAS',
-          description: "A Cross-Layer Neural Architecture Search Framework for PIM Systems",
+            },},{id: "projects-reliability-aware-in-memory-analog-computing",
+          title: 'Reliability-Aware In-memory Analog Computing',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/work/3_project/";
             },},{id: "projects-project-4",
