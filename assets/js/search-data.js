@@ -408,11 +408,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/work/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-crossnas",
+          title: 'CrossNAS',
+          description: "A Cross-Layer Neural Architecture Search Framework for PIM Systems",
           section: "Projects",handler: () => {
-              window.location.href = "/fun/4_project/";
+              window.location.href = "/work/4_project/";
             },},{
         id: 'social-email',
         title: 'email',
