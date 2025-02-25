@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reliability-Aware In-memory Analog Computing
+title: Reliability-Aware NN Deployment on Analog PIM
 description:
 img: assets/img/arch.png
 importance: 2
