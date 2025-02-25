@@ -1,7 +1,7 @@
 ---
 layout: page
-title: CrossNAS
-description: A Cross-Layer Neural Architecture Search Framework for PIM Systems
+title: SW/HW Co-optimization of PIM Systems
+description:
 img: assets/img/method_new.png
 importance: 2
 category: work
