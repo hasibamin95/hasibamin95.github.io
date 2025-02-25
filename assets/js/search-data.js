@@ -403,9 +403,9 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/work/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-crossnas",
+          title: 'CrossNAS',
+          description: "A Cross-Layer Neural Architecture Search Framework for PIM Systems",
           section: "Projects",handler: () => {
               window.location.href = "/work/3_project/";
             },},{id: "projects-project-4",
