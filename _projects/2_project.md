@@ -38,8 +38,9 @@ We obtained promising results on CIFAR-10 dataset, both in terms of accuracy and
 | Gibbon [4] (acc opt.)  | 89.2%  | 3.44  | 1.67  | 6  |
 | Gibbon [4] (edp opt.)  | 83.4%  | 1.99  | 0.26  | 6  |
 | __Our work__  | __91.27%__  | __1.35__  | __0.28__  | __6__  |
+
 <br>
-<sub><sup> [1] Weiwen Jiang, Qiuwen Lou, Zheyu Yan, Lei Yang, Jingtong Hu, Xiaobo Sharon Hu, and Yiyu Shi. Device-circuit-architecture co-exploration for computing-in- memory neural accelerators. IEEE Transactions on Computers. 2021 </sub></sup>
+<sup> [1] Weiwen Jiang, Qiuwen Lou, Zheyu Yan, Lei Yang, Jingtong Hu, Xiaobo Sharon Hu, and Yiyu Shi. Device-circuit-architecture co-exploration for computing-in- memory neural accelerators. IEEE Transactions on Computers. 2021 </sup>
 <br>
 [2] Zheyu Yan, Da-Cheng Juan, Xiaobo Sharon Hu, and Yiyu Shi. Uncertainty modeling of emerging device based computing-in-memory neural accelerators with application to neural architecture search. 2021 26th Asia and South Pacific Design Automation Conference (ASP-DAC).
 [3] Zhihang Yuan, Jingze Liu, Xingchen Li, Longhao Yan, Haoxiang Chen, Bingzhe Wu, Yuchao Yang, and Guangyu Sun. Nas4rram: neural network architecture search for inference on rram-based accelerators. Science China Information Sciences, 64(6):160407, May 2021.
