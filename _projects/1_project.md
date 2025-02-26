@@ -8,7 +8,7 @@ category: work
 giscus_comments: false
 ---
 
-There are matrix multiplication (MatMul) operations in the projection and attention layers of the LLM architecture.
+We focus on the matrix multiplication (MatMul) operations in the projection and attention layers of the LLM architecture.
 
 <div class="row justify-content-center">
     <div class="col-sm-8 mt-3 mt-md-0">
