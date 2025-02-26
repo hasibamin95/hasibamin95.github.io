@@ -42,6 +42,8 @@ We obtained promising results on CIFAR-10 dataset, both in terms of accuracy and
 <br>
 <sup> [1] Weiwen Jiang, Qiuwen Lou, Zheyu Yan, Lei Yang, Jingtong Hu, Xiaobo Sharon Hu, and Yiyu Shi. Device-circuit-architecture co-exploration for computing-in- memory neural accelerators. IEEE Transactions on Computers. 2021 </sup>
 <br>
-[2] Zheyu Yan, Da-Cheng Juan, Xiaobo Sharon Hu, and Yiyu Shi. Uncertainty modeling of emerging device based computing-in-memory neural accelerators with application to neural architecture search. 2021 26th Asia and South Pacific Design Automation Conference (ASP-DAC).
-[3] Zhihang Yuan, Jingze Liu, Xingchen Li, Longhao Yan, Haoxiang Chen, Bingzhe Wu, Yuchao Yang, and Guangyu Sun. Nas4rram: neural network architecture search for inference on rram-based accelerators. Science China Information Sciences, 64(6):160407, May 2021.
-[4] Hanbo Sun, Zhenhua Zhu, Chenyu Wang, Xuefei Ning, Guohao Dai, Huazhong Yang, and Yu Wang. Gibbon: An efficient co-exploration framework of nn model and processing-in-memory architecture. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 42(11):4075–4089, 2023.
+<sup> [2] Zheyu Yan, Da-Cheng Juan, Xiaobo Sharon Hu, and Yiyu Shi. Uncertainty modeling of emerging device based computing-in-memory neural accelerators with application to neural architecture search. 2021 26th Asia and South Pacific Design Automation Conference (ASP-DAC). </sup>
+<br>
+<sup> [3] Zhihang Yuan, Jingze Liu, Xingchen Li, Longhao Yan, Haoxiang Chen, Bingzhe Wu, Yuchao Yang, and Guangyu Sun. Nas4rram: neural network architecture search for inference on rram-based accelerators. Science China Information Sciences, 64(6):160407, May 2021. </sup>
+<br>
+<sup> [4] Hanbo Sun, Zhenhua Zhu, Chenyu Wang, Xuefei Ning, Guohao Dai, Huazhong Yang, and Yu Wang. Gibbon: An efficient co-exploration framework of nn model and processing-in-memory architecture. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 42(11):4075–4089, 2023. </sup>
