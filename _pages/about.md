@@ -24,8 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I am Hasib! I'm a PhD candidate in the Intelligent Circuits, Architectures, AND Systems (iCAS) Lab at the University of South Carolina, advised by [Dr. Ramtin Zand](https://www.linkedin.com/in/ramtinzand/).
+Hi, I am Hasib! I'm a PhD candidate in the [Intelligent Circuits, Architectures, AND Systems (iCAS)](https://www.icaslab.com/) Lab at the University of South Carolina, advised by [Dr. Ramtin Zand](https://www.linkedin.com/in/ramtinzand/).
 
-My research interest lies in circuit-, system- and architecture-level optimization of analog Processing-in-Memory (PIM) systems. At the circuit level, we analyze the reliability concerns due to parasitics and noise. In the system level, we focus on software-hardware co-design and co-optimization of NN models on PIM hardware. Our architecture-level work focuses on heterogeneous integration of PIM and other computing systems such as CPU, TPU for various CNN and LLM workloads.
+My research interest lies in circuit-, system- and architecture-level optimization of analog Processing-in-Memory (PIM) systems. At the circuit level, we investigate the reliability concerns due to parasitics and noise. In the system level, we focus on software-hardware co-design and co-optimization of NN models on PIM hardware. Our architecture-level work focuses on heterogeneous integration of PIM and other computing systems such as CPU, TPU for various CNN and LLM workloads.
 
 Feel free to reach out at ma77@email.sc.edu!
