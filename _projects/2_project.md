@@ -28,7 +28,7 @@ We use the Single-Path One-shot weight sharing approach on PIM systems.
     Optimization flow for the proposed co-optimization framework
 </div>
 
-We obtained promising results on CIFAR-10 dataset, both in terms of accuracy and energy efficiency, compared to other PIM-oriented NAS methods as shown below.
+We obtained promising results on CIFAR-10 dataset, both in terms of accuracy and energy efficiency, compared to other PIM-oriented co-exploration methods as shown below.
 
 | Method  | PIM Accuracy | Latency (ms)  | EDP (mJ X ms)  | Search time (h) |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
