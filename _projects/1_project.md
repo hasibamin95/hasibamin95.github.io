@@ -20,7 +20,10 @@ We focus on the matrix multiplication (MatMul) operations in the projection and 
     The architecture of decoder-only LLMs. The tokenization and embedding layers are not shown in the figure.
 </div>
 
-In the 1-bit LLM, the attention heads are designed with high-precision matmul operations and the projection layers operate with low-precision MatMul operations. We observe that most of the LLM models have higher percentage of the MatMul operations in the projection layer. So, we shift the projection layer operations into PIM hardware.
+## Features of 1-bit LLM
+- Attention heads require higher precision (8-bit) MatMul
+- Projection layer MatMul operations can undergo extreme quantization (1-bit)
+- Most of the LLM models have higher percentage of the MatMul operations in the projection layer
 
 <div class="row justify-content-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -32,6 +35,22 @@ In the 1-bit LLM, the attention heads are designed with high-precision matmul op
     (a) The 1-bit LLMs divide the model into two portions: attention heads with high-precision MatMul operations (shown in red) and projection layers with low-precision MatMuls (shown in green). (b) The percentage of the low-precision MatMul operations in various OPT models.
 </div>
 
+## Proposed Architecture
+We suggest a hybrid architecture of Tensor Processing Unit (TPU) and Processing-in-Memory (PIM) system. Basically,
+- We perform the high precision MatMul operations into our LLM-specific TPU design
+- We shift 1-bit MatMul operations onto PIM system
+
+<div class="row justify-content-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/PIM-LLM-Arch.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="caption">
+    The proposed TPU-PIM hybrid architecture. (a) The LLM-specific TPU architecture, (b) The PIM architecture with multiple banks. (b) The PIM tile consists of a network of PEs. (c) The PEs include memristive crossbars to perform MVM operations.
+</div>
+
+## Initial results
 Initial results show significant performance gains compared to the TPU baselines.
 
 <div class="row">
