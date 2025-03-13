@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
-inline: true
+date: 2025-03-07 16:00:00-0400
+inline: false
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+University of South Carolina CSE Graduate Research Symposium Best Research Award - 2nd Place - CrossNAS: A Cross-layer Neural Architecture Search Framework for PIM Systems
