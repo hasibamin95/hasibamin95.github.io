@@ -382,12 +382,10 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-announcement-1",
-          title: 'Announcement_1',
+    },{id: "news-university-of-south-carolina-cse-graduate-research-symposium-best-research-award-2nd-place-crossnas-a-cross-layer-neural-architecture-search-framework-for-pim-systems",
+          title: 'University of South Carolina CSE Graduate Research Symposium Best Research Award - 2nd...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_1/";
-            },},{id: "projects-hybrid-tpu-pim-llm-accelerator",
+          section: "News",},{id: "projects-hybrid-tpu-pim-llm-accelerator",
           title: 'Hybrid TPU-PIM LLM Accelerator',
           description: "",
           section: "Projects",handler: () => {
