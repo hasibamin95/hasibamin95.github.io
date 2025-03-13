@@ -382,11 +382,11 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-announcement-3",
-          title: 'Announcement_3',
+    },{id: "news-announcement-1",
+          title: 'Announcement_1',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_3/";
+              window.location.href = "/news/announcement_1/";
             },},{id: "projects-hybrid-tpu-pim-llm-accelerator",
           title: 'Hybrid TPU-PIM LLM Accelerator',
           description: "",
