@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[https://www.linkedin.com/posts/icaslab_neuromorphic-federatedabrlearning-edgeai-activity-7305020285395566592-Kv9R/] (University of South Carolina CSE Graduate Research Symposium Best Research Award) - 2nd Place - CrossNAS: A Cross-layer Neural Architecture Search Framework for PIM Systems
+[University of South Carolina CSE Graduate Research Symposium Best Research Award](https://www.linkedin.com/posts/icaslab_neuromorphic-federatedabrlearning-edgeai-activity-7305020285395566592-Kv9R/) - 2nd Place - CrossNAS: A Cross-layer Neural Architecture Search Framework for PIM Systems
