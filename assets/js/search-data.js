@@ -382,8 +382,8 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-university-of-south-carolina-cse-graduate-research-symposium-best-research-award-2nd-place-crossnas-a-cross-layer-neural-architecture-search-framework-for-pim-systems",
-          title: 'University of South Carolina CSE Graduate Research Symposium Best Research Award - 2nd...',
+    },{id: "news-https-www-linkedin-com-posts-icaslab-neuromorphic-federatedabrlearning-edgeai-activity-7305020285395566592-kv9r-2nd-place-crossnas-a-cross-layer-neural-architecture-search-framework-for-pim-systems",
+          title: 'https://www.linkedin.com/posts/icaslab_neuromorphic-federatedabrlearning-edgeai-activity-7305020285395566592-Kv9R/ - 2nd Place - CrossNAS: A Cross-layer Neural Architecture Search Framework for...',
           description: "",
           section: "News",},{id: "projects-hybrid-tpu-pim-llm-accelerator",
           title: 'Hybrid TPU-PIM LLM Accelerator',
