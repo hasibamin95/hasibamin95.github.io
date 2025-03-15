@@ -11,7 +11,7 @@ giscus_comments: false
 We use analog horizontal and vertical partitioning approach for reliability-aware deployment of NN models on PIM hardware.
 
 <div class="row justify-content-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-12 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/xbar/partition.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -22,7 +22,7 @@ We use analog horizontal and vertical partitioning approach for reliability-awar
 We design custom layouts for different types of memory bitcells.
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-2 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/xbar/1t1r.png" title="example image" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
             (a) 1T-1R
@@ -42,7 +42,7 @@ We design custom layouts for different types of memory bitcells.
     </div>
 </div>
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-2 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/xbar/2t1rsot.png" title="example image" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
             (d) 2T-1R
@@ -68,7 +68,7 @@ We design custom layouts for different types of memory bitcells.
 
 We deploy DNN workloads on different crossbar sizes.
 <div class="row justify-content-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-12 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/xbar/deploy.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
