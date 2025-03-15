@@ -3,7 +3,7 @@ layout: page
 title: Approximate TPU
 description:
 img: assets/img/APE_new.png
-importance: 2
+importance: 5
 category: work
 giscus_comments: false
 ---
