@@ -399,6 +399,11 @@ ninja.data = [{
           title: 'Reliability-Aware NN Deployment on Analog PIM',
           description: "",
           section: "Projects",handler: () => {
+              window.location.href = "/work/3_project/";
+            },},{id: "projects-reliability-aware-nn-deployment-on-analog-pim",
+          title: 'Reliability-Aware NN Deployment on Analog PIM',
+          description: "",
+          section: "Projects",handler: () => {
               window.location.href = "/work/4_project/";
             },},{id: "projects-approximate-tpu",
           title: 'Approximate TPU',
