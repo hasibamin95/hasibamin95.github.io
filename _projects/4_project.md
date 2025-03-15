@@ -9,6 +9,65 @@ giscus_comments: false
 ---
 
 We use analog horizontal and vertical partitioning approach for reliability-aware deployment of NN models on PIM hardware.
+
+<div class="row justify-content-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/xbar/partition.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    The Xbar-partitioning approach. (a) Horizontal partitioning (H_P = 2), and (b) vertical partitioning (V_P = 2) in an analog IMC array. (c) Parasitic capacitance and resistance model.
+</div>
+
+We design custom layouts for different types of memory bitcells.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/xbar/1t1r.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            (a) 1T-1R
+        </div>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/xbar/2t1r.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            (b) 2T-1R
+        </div>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/xbar/1tg1r.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            (c) 1TG-1R
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/xbar/2t1rsot.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            (d) 2T-1R
+        </div>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/xbar/3t1r.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            (e) 3T-1R
+        </div>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/xbar/1tg1t1r.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            (f) 1TG-1T-1R
+        </div>
+    </div>
+</div>
+
+<div class="caption">
+    Schematic and layout designs for different bitcells
+</div>
+
+We analyze the proposed approach in terms of accuracy, power consumption, area and signal-to-noise ratio accross different bitcells, technologies and crossbar sizes.
+
 Read the following papers for more information.
 
 - M. H. Amin, M. E. Elbtity and R. Zand, "Xbar-Partitioning: A Practical Way for Parasitics and Noise Tolerance in Analog IMC Circuits," in IEEE Journal on Emerging and Selected Topics in Circuits and Systems, vol. 12, no. 4, pp. 867-877, Dec. 2022, doi: 10.1109/JETCAS.2022.3222966.
