@@ -12,7 +12,7 @@ We propose IMAC-Sim, a circuit-level simulation framework for analog PIM archite
 
 <div class="row justify-content-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/imac-sim/imac-flow.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/imac-sim/imac_flow.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -29,7 +29,7 @@ We perform design space exploration of analog PIM architecture using IMAC-Sim.
         </div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/token/pow_new.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/imac-sim/pow_new.png" title="example image" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
             (b) Power Consumption
         </div>
