@@ -16,7 +16,7 @@ We use analog horizontal and vertical partitioning approach for reliability-awar
     </div>
 </div>
 <div class="caption">
-    The Xbar-partitioning approach. (a) Horizontal partitioning (H_P = 2), and (b) vertical partitioning (V_P = 2) in an analog IMC array. (c) Parasitic capacitance and resistance model.
+    The Xbar-partitioning approach. (a) Horizontal partitioning (H<sub>P</sub> = 2), and (b) vertical partitioning (V<sub>P</sub> = 2) in an analog IMC array. (c) Parasitic capacitance and resistance model.
 </div>
 
 We design custom layouts for different types of memory bitcells.
