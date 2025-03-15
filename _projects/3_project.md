@@ -41,7 +41,7 @@ We perform design space exploration of analog PIM architecture using IMAC-Sim.
 </div>
 
 <div class="row justify-content-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-12 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/imac-sim/color2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
