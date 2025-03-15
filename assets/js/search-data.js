@@ -404,7 +404,7 @@ ninja.data = [{
           title: 'Approximate TPU',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/work/4_project/";
+              window.location.href = "/work/5_project/";
             },},{
         id: 'social-email',
         title: 'email',
