@@ -66,6 +66,16 @@ We design custom layouts for different types of memory bitcells.
     Schematic and layout designs for different bitcells
 </div>
 
+We deploy DNN workloads on different crossbar sizes.
+<div class="row justify-content-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/xbar/deploy.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Deployment of a 400 × 120 × 84 × 10 DNN on fully-analog IMC architecture with (a) 32 × 32 (b) 64 × 64, (c) 128 × 128 and (d) 256 × 256 subarrays.
+</div>
+
 We analyze the proposed approach in terms of accuracy, power consumption, area and signal-to-noise ratio accross different bitcells, technologies and crossbar sizes.
 
 Read the following papers for more information.
