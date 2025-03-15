@@ -395,8 +395,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/work/2_project/";
-            },},{id: "projects-reliability-aware-nn-deployment-on-analog-pim",
-          title: 'Reliability-Aware NN Deployment on Analog PIM',
+            },},{id: "projects-simulation-framework-for-analog-pim",
+          title: 'Simulation Framework for Analog PIM',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/work/3_project/";
