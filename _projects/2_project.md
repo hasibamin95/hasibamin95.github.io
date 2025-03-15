@@ -8,7 +8,7 @@ category: work
 giscus_comments: false
 ---
 
-We use the Single-Path One-shot weight sharing approach on PIM systems.
+We use the Single-Path One-shot weight sharing approach on PIM systems [GitHub](https://github.com/hasibamin95/PIMNAS).
 
 <div class="row justify-content-center">
     <div class="col-sm-8 mt-3 mt-md-0">
