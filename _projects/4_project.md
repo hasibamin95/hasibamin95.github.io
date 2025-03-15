@@ -3,7 +3,7 @@ layout: page
 title: Reliability-Aware NN Deployment on Analog PIM
 description:
 img: assets/img/arch.png
-importance: 2
+importance: 4
 category: work
 giscus_comments: false
 ---
