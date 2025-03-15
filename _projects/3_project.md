@@ -8,7 +8,7 @@ category: work
 giscus_comments: false
 ---
 
-We propose IMAC-Sim, a circuit-level simulation framework for analog PIM architecture. [GitHub](https://github.com/iCAS-Lab/IMAC-Sim)
+We propose IMAC-Sim, a circuit-level simulation framework for analog PIM architecture. [[GitHub]](https://github.com/iCAS-Lab/IMAC-Sim)
 
 <div class="row justify-content-center">
     <div class="col-sm-8 mt-3 mt-md-0">
