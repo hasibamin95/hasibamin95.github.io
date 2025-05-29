@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-PhD dissertation got accepted for presentation at DAC PhD Forum 2025
+Dissertation accepted at DAC PhD Forum 2025
