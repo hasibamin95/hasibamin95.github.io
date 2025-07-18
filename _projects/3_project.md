@@ -3,7 +3,7 @@ layout: page
 title: Simulation Framework for Analog PIM
 description:
 img: assets/img/imac-sim/imac-sim-cover.jpg
-importance: 3
+importance: 2
 category: work
 giscus_comments: false
 ---
