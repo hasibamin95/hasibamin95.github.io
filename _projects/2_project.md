@@ -3,7 +3,7 @@ layout: page
 title: SW/HW Co-optimization of PIM Systems
 description:
 img: assets/img/method_new.png
-importance: 2
+importance: 1
 category: work
 giscus_comments: false
 ---
